@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Creatint a new branch is quick and 
-quick 
-aaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbb
-cccccccccccccccccccc
-dddddddddddddddddddd
+qq1665585215
+aa
+
